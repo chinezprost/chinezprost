@@ -1,5 +1,5 @@
 ### Hi, I'm @chinez, nice to meet you! 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinezprost&count_private=true&show_icons=true&theme=onedark)
+
 ## Who am I?
 - 💼 Founder of HALFFLUX STUDIOS, a in-progress game-dev company I am working on.
 - 📫 You can reach me within email (dennis@halfflux.com) or discord (chinez#3246)
@@ -12,3 +12,7 @@
 - 
 👀 www.halfflux.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinezprost&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinezprost&layout=compact)](https://github.com/chinezprost/github-readme-stats)
