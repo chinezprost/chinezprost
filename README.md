@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm @chinez, nice to meet you! 👋
 
-<!--
-**chinezprost/chinezprost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+- 💼 Founder of HALFFLUX STUDIOS, a in-progress game-dev company I am working on.
+- 📫 You can reach me within email (dennis@halfflux.com) or discord (chinez#3246)
+## ⚡ Tools and apps:
+- IDE used: Jetbrains Rider (C#), Pycharm (.py) - XAMPP for databases
+- Game Dev: Unity 3D - Blender
+- Back-end: C#, Python
+- Front-end: HTML5/CSS3, JavaScript, Vue(js)
+- Databases: MySQL, MongoDB
+- 
+👀 www.halfflux.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
