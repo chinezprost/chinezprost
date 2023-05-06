@@ -9,7 +9,7 @@
 - Back-end: C#, Python
 - Front-end: HTML5/CSS3, JavaScript, Vue(js)
 - Databases: MySQL, MongoDB
-- 
+- I like coding.
 👀 www.halfflux.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinezprost&count_private=true&&show_icons=true&theme=radical)
